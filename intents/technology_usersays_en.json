@@ -1,0 +1,91 @@
+[
+  {
+    "id": "6d1e044f-98b6-4e2b-baa2-5aecf136e16e",
+    "data": [
+      {
+        "text": "jokes on ",
+        "userDefined": false
+      },
+      {
+        "text": "technology",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1516364013
+  },
+  {
+    "id": "06da390b-b7af-42a8-ac05-3adb113b48d2",
+    "data": [
+      {
+        "text": "tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "technology",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cca29fef-20f4-4556-b378-49864ee7d5e6",
+    "data": [
+      {
+        "text": "technology",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516364013
+  },
+  {
+    "id": "f07a006a-66ff-460b-b383-e6b68205b231",
+    "data": [
+      {
+        "text": "technology",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1516364013
+  },
+  {
+    "id": "fb9b55b5-deff-45c2-82cb-7a752249cf78",
+    "data": [
+      {
+        "text": "tell me a joke on ",
+        "userDefined": false
+      },
+      {
+        "text": "technology",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1516364013
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "e526f46a-136e-456e-b90c-e39afda5b766",
+  "name": "kid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "906ffc34-8ad9-4eb7-99b7-e7821ab9c9d5",
+          "required": true,
+          "dataType": "@Category",
+          "name": "Category",
+          "value": "$Category",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "How do all the oceans say hello to each other?\nThey wave!\nWant to listen more? then ask for or say good bye to end the conversation.",
+            "What do you call a bear with no teeth?\n\nA gummy bear!\nWant to listen more? then ask for or say good bye to end the conversation.",
+            "How can you tell if an elephant has been in your refrigerator?\n\nBy the footprints in the butter!\nWant to listen more? then ask for or say good bye to end the conversation.",
+            "What do you call a cow with no legs?\n\nGround beef!\nWant to listen more? then ask for or say good bye to end the conversation."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516365061,
+  "fallbackIntent": false,
+  "events": []
+}

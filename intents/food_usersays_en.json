@@ -1,0 +1,157 @@
+[
+  {
+    "id": "99cd9f14-8635-4de7-b2bf-5a96d2b528a2",
+    "data": [
+      {
+        "text": "tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "601b5527-88ab-4369-a84c-5150c830fa28",
+    "data": [
+      {
+        "text": "tell me some ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3910362b-3c63-4e27-9c89-0108d44d1a6d",
+    "data": [
+      {
+        "text": "food",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5811358-4e52-4b61-92c3-d5ee5d0ee13e",
+    "data": [
+      {
+        "text": "food",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36f0f8c1-d662-43a4-9fdc-4f45dc8a2213",
+    "data": [
+      {
+        "text": "jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "630f4a6e-1472-4155-ae26-42ace10d36b7",
+    "data": [
+      {
+        "text": "jokes on ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516361699
+  },
+  {
+    "id": "21ded553-31de-4b92-98a3-7f5a6ec2d6c9",
+    "data": [
+      {
+        "text": "tell me a joke related to ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516361699
+  },
+  {
+    "id": "e6bf8a35-84d9-4cda-8863-1999b94a82fb",
+    "data": [
+      {
+        "text": "tell me a joke on ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1516361699
+  },
+  {
+    "id": "8d64f76c-8f2e-4468-b8a9-a6466355f26d",
+    "data": [
+      {
+        "text": "food",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516361699
+  }
+]

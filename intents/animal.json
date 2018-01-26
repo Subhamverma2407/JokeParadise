@@ -1,0 +1,47 @@
+{
+  "id": "990f3d0d-c493-4670-af31-3d74b00baeb7",
+  "name": "animal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "68b75a2b-e27b-4e52-9f97-3e55b9bd841f",
+          "required": true,
+          "dataType": "@Category",
+          "name": "Category",
+          "value": "$Category",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me a category or type of joke you want to hear.\nLike you can ask for \"animal joke\", \"santa-banta joke\",\"food joke\", \"kids joke\",\"technology joke\" etc."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A bear walks into a bar and says to the bartender, \"I\u0027ll have a pint of beer and a.......... packet of peanuts.\"\nThe bartender asks, \"Why the big pause?\"\nWant to listen more? then ask for or say good bye to end the conversation.",
+            "They had a sign, and it said, \u0027Do not allow your dog to chase, injury or worry wildlife.\u0027 I understand the chasing and injuring part, but how is a dog going to \u0027worry\u0027 wildlife? Dog\u0027s going to run up to a bird: \u0027Hey, I think you\u0027ve got something on your beak. It could be a tumor.\u0027\nWant to listen more? then ask for or say good bye to end the conversation.",
+            "Question: Where do orcas hear music?\nAnswer: Orca-stras!\nWant to listen more? then ask for or say good bye to end the conversation."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516361639,
+  "fallbackIntent": false,
+  "events": []
+}

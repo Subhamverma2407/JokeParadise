@@ -1,0 +1,46 @@
+{
+  "id": "994044ea-56bb-4a22-8c0c-bcde9314f000",
+  "name": "food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f505cdb2-a2c4-45f2-bebb-c7300c18bebf",
+          "required": true,
+          "dataType": "@Category",
+          "name": "Category",
+          "value": "$Category",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me a category or type of joke you want to hear.\nLike you can ask for \"animal joke\", \"santa-banta joke\",\"food joke\", \"kids joke\",\"technology joke\" etc."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "What kind of apple isn\u0027t an apple? \nA pineapple. \nWant to listen more? then ask for or say good bye to end the conversation.",
+            "Why did the students eat their homework?\nBecause the teacher said that it was a piece of cake.\nWant to listen more? then ask for or say good bye to end the conversation."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516361699,
+  "fallbackIntent": false,
+  "events": []
+}

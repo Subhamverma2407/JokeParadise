@@ -1,0 +1,39 @@
+{
+  "id": "0eb1c10f-5604-439a-a238-731859a18128",
+  "name": "quit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "items": [
+            {
+              "textToSpeech": "Bye.\nHave a nice day."
+            },
+            {
+              "textToSpeech": "Bye.\nHope you enjoyed."
+            },
+            {
+              "textToSpeech": "Bye.\nSee you later."
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516365442,
+  "fallbackIntent": false,
+  "events": []
+}

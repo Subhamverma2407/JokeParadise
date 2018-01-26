@@ -1,0 +1,43 @@
+{
+  "id": "780eccdb-ec12-4609-b83b-0f4b22d74064",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Greetings! Welcome to Joke Paradise, Want to listen some jokes?\nSay \"Tell me a joke\" or say \"help\" for any help.",
+            "Good day! Welcome to Joke Paradise, Want to listen some jokes?\nSay \"Tell me a joke\" or say \"help\" for any help.",
+            "Hello! Welcome to Joke Paradise, Want to listen some jokes?\nSay \"Tell me a joke\" or say \"help\" for any help.",
+            "Hi! Welcome to Joke Paradise, Want to listen some jokes?\nSay \"Tell me a joke\" or say \"help\" for any help."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

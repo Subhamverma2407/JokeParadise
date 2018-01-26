@@ -1,0 +1,74 @@
+[
+  {
+    "value": "animal",
+    "synonyms": [
+      "animal",
+      "animals",
+      "animale",
+      "animl",
+      "lion",
+      "elephant"
+    ]
+  },
+  {
+    "value": "food",
+    "synonyms": [
+      "food",
+      "foods",
+      "hungry"
+    ]
+  },
+  {
+    "value": "news and politics",
+    "synonyms": [
+      "news and politics",
+      "politics",
+      "news",
+      "politic",
+      "politician"
+    ]
+  },
+  {
+    "value": "santa banta",
+    "synonyms": [
+      "santa banta",
+      "santa",
+      "banta",
+      "santabanta",
+      "santa banta",
+      "sant bant",
+      "sant",
+      "bant"
+    ]
+  },
+  {
+    "value": "doctor",
+    "synonyms": [
+      "doctor",
+      "patients",
+      "doctors",
+      "doctr"
+    ]
+  },
+  {
+    "value": "kids",
+    "synonyms": [
+      "kids",
+      "kid",
+      "child",
+      "student",
+      "kidding"
+    ]
+  },
+  {
+    "value": "technology",
+    "synonyms": [
+      "technology",
+      "technological",
+      "tech",
+      "techno",
+      "technologies",
+      "techy"
+    ]
+  }
+]

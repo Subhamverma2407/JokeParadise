@@ -1,0 +1,37 @@
+{
+  "id": "e38c51f3-c0aa-425a-8c9d-10512b81314c",
+  "name": "help",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "1. Say a category of joke to listen jokes like, you can ask \"santa banta jokes\",\"technology jokes\", \"food jokes\",\"animals jokes\" ,\"kids jokes\".\n\n2. Say \"bye\" anytime to end the conversation."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516365651,
+  "fallbackIntent": false,
+  "events": []
+}

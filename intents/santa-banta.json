@@ -1,0 +1,48 @@
+{
+  "id": "fe80cfae-1275-4bc0-9c04-a77b074b3996",
+  "name": "santa-banta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3e6619c6-b8ce-4bd2-a84c-8c72b6d23945",
+          "required": true,
+          "dataType": "@Category",
+          "name": "Category",
+          "value": "$Category",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me a category or type of joke you want to hear.\nLike you can ask for \"animal joke\", \"santa-banta joke\",\"food joke\", \"kids joke\",\"technology joke\" etc."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Bank manager asks Santa in an interview: \"What is cyclone\"\nSanta: \"It is the loan given to purchase a cycle\"\nWant to listen more? then ask for or say good bye to end the conversation.",
+            "Salesman: Sir, do you want this powder ?\nSanta: For what ?\nSalesman: For ants\nSanta: No. If I give powder today, they will ask lipstick tomorrow!!.\nWant to listen more? then ask for or say good bye to end the conversation.",
+            "Banta: How the word \u0027Wife\u0027 was invented?\nSanta: They took the first two and last two letters of \u0027Wildlife\u0027!\nWant to listen more? then ask for or say good bye to end the conversation.",
+            "Santa - How many apples can you eat on an empty stomach?\nBanta - I can eat 6 apples.\nSanta - Wrong. you can eat only 1 apple on empty stomach because when you eat the second apple that\u0027s not an empty stomach!\nWant to listen more? then ask for or say good bye to end the conversation."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516362994,
+  "fallbackIntent": false,
+  "events": []
+}

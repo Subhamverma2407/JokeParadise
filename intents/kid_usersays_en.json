@@ -1,0 +1,166 @@
+[
+  {
+    "id": "ccff4068-a092-4dbb-a24c-7f447f5fa24e",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "kid",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4327b19-2299-4074-8291-dbd10c79eba1",
+    "data": [
+      {
+        "text": "tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "kids",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "993312fc-eeab-43a1-8bd5-fbf33e0a15b3",
+    "data": [
+      {
+        "text": "kid",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516365061
+  },
+  {
+    "id": "f46fcc66-d775-4da3-b3a6-f718a867eab7",
+    "data": [
+      {
+        "text": "kids",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516365061
+  },
+  {
+    "id": "d29cc369-636c-4768-ada1-517c59e1040e",
+    "data": [
+      {
+        "text": "kid",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516365061
+  },
+  {
+    "id": "afa0afe1-8e25-4060-8726-e010e8b23ef0",
+    "data": [
+      {
+        "text": "kids",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516365061
+  },
+  {
+    "id": "474e7b51-74f1-4b60-88af-0f28c0e4e295",
+    "data": [
+      {
+        "text": "kid",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516365061
+  },
+  {
+    "id": "970dcd13-6045-4649-9316-c8ee33278851",
+    "data": [
+      {
+        "text": "tell a ",
+        "userDefined": false
+      },
+      {
+        "text": "kid",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516365061
+  },
+  {
+    "id": "f66b5311-a636-4063-8399-cd9ed9a9bb30",
+    "data": [
+      {
+        "text": "tell me a joke on ",
+        "userDefined": false
+      },
+      {
+        "text": "kids",
+        "alias": "Category",
+        "meta": "@Category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1516365061
+  }
+]

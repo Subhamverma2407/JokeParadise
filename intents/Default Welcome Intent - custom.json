@@ -1,0 +1,27 @@
+{
+  "id": "627925cf-7903-4d27-a93e-dfdee6bae0b1",
+  "parentId": "780eccdb-ec12-4609-b83b-0f4b22d74064",
+  "rootParentId": "780eccdb-ec12-4609-b83b-0f4b22d74064",
+  "name": "Default Welcome Intent - custom",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}
